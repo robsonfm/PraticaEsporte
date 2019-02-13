@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usuario: MyString
+  tipoatividade: MyString
+  titulo: MyString
+  duracao: 1
+  data: 2019-02-13
+
+two:
+  usuario: MyString
+  tipoatividade: MyString
+  titulo: MyString
+  duracao: 1
+  data: 2019-02-13
